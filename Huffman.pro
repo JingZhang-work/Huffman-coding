@@ -1,12 +1,4 @@
-#####################################################################
-## Stanford CS 106 B/X Qt Creator project file                     ##
-#####################################################################
-#
-# This file specifies the information about your project to Qt Creator.
-# You should not need to modify this file to complete your assignment.
-#
-# @author Julie Zelenski
-# @version 2020/04/02
+
 
 DEFINES += SPL_PROJECT_VERSION=20200402   # kludgy YYYYMMDD constant used by lib to know its version
 
